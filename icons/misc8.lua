@@ -190,3 +190,5 @@ s["@spyro76"] = "LibCustomIcons/icons/misc8/spyro76.dds"
 a["@BIGTU"] = {"LibCustomIcons/icons/misc8/BIGTU_anim.dds", 11, 1, 33}
 a["@Cookie_Axis"] = {"LibCustomIcons/icons/misc8/Cookie_Axis_anim.dds", 4, 2, 20}
 s["@FerryTAIR"] = "LibCustomIcons/icons/misc8/FerryTAIR.dds"
+s["@peachysaurusx"] = "LibCustomIcons/icons/misc8/peachysaurusx.dds"
+a["@peachysaurusx"] = {"LibCustomIcons/icons/misc8/peachysaurusx_anim.dds", 8, 1, 9}
